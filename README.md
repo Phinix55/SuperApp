@@ -1,6 +1,7 @@
 # 🌟 **Sarwam App** - Seamless E-Commerce, Beautifully Designed
 
-<img src="https://via.placeholder.com/1000x500.png?text=Sarwam+App+Showcase" alt="Sarwam App Banner" width="100%" />
+![Crypto Trading App](https://drive.google.com/uc?export=view&id=1DtZlyiCqQsJoDuvvpCUjjXM6jm9pAvA-)
+
 
 ---
 
@@ -19,7 +20,8 @@ At Sarwam, we believe that **design drives adoption**. Our user interface is bui
   - Sales performance insights.
   - Instant notifications for orders and feedback.
 
-<img src="https://via.placeholder.com/800x400.png?text=Seller+Dashboard" alt="Seller Dashboard UI" width="90%" />
+![Crypto Trading App](https://drive.google.com/uc?export=view&id=1RkPY8T8WhArL3CBf0PVXHcgAHTCvlWSr)
+
 
 ---
 
@@ -28,7 +30,7 @@ At Sarwam, we believe that **design drives adoption**. Our user interface is bui
 - **Smart Search**: Easily find what you need with advanced filters.
 - **Wishlist and Cart Management**: Smooth interactions to enhance purchase decisions.
 
-<img src="https://via.placeholder.com/800x400.png?text=Shopping+Experience" alt="Shopping UI" width="90%" />
+![Crypto Trading App](https://drive.google.com/uc?export=view&id=1mtVdAat-E7pm-sTuulxw7jn6RSpcnG-_)
 
 ---
 
@@ -36,7 +38,8 @@ At Sarwam, we believe that **design drives adoption**. Our user interface is bui
 - **Location-Based Suggestions**: Automatically detects nearby restaurants and grocery stores.
 - **Order Tracking**: Real-time updates on the delivery status.
 
-<img src="https://via.placeholder.com/800x400.png?text=Food+Delivery+UI" alt="Food Delivery UI" width="90%" />
+![Crypto Trading App](https://drive.google.com/uc?export=view&id=1MxhjYJZBElETPYq26lF3N-0_idnHKKHJ)
+
 
 ---
 
@@ -44,7 +47,7 @@ At Sarwam, we believe that **design drives adoption**. Our user interface is bui
 - **Interactive Calendar**: Browse events by date and category.
 - **Secure QR Codes**: QR code integration for quick event check-ins.
 
-<img src="https://via.placeholder.com/800x400.png?text=Event+Booking+UI" alt="Event Booking UI" width="90%" />
+
 
 ---
 
@@ -90,27 +93,12 @@ At Sarwam, we believe that **design drives adoption**. Our user interface is bui
 
 ## 🔍 **UI Demo**
 
+
 > Watch the live UI demo to experience Sarwam’s design:  
-> **[View Demo](#)** (Insert link to video or demo if available)
+> **[View Demo](https://www.youtube.com/watch?v=AepWN6HPfwE)** 
 
 ---
 
-## 📸 **UI Gallery**
-
-### Seller Dashboard  
-<img src="https://via.placeholder.com/800x400.png?text=Seller+Dashboard+Showcase" alt="Seller Dashboard Showcase" width="90%" />
-
-### Customer Shopping  
-<img src="https://via.placeholder.com/800x400.png?text=Shopping+Experience+Gallery" alt="Shopping Gallery" width="90%" />
-
-### Food and Grocery Delivery  
-<img src="https://via.placeholder.com/800x400.png?text=Food+Delivery+Gallery" alt="Food Delivery Gallery" width="90%" />
-
 ---
 
-## 🌐 **Experience Sarwam Yourself**
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/sarwam.git
-   cd sarwam
